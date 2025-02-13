@@ -67,5 +67,4 @@ The CODE-TECH Real-Time Chat Application leverages modern technologies to delive
 - Youtube
 - Google
 
-# Output
-https://github.com/shruti-21099/CODE-TECH-REAL-TIME-CHAT-APP2/issues/1#issue-2825830753
+
