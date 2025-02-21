@@ -4,8 +4,8 @@
 ## MENTOR: NEELA SANTOSH KUMAR  
 
 ###  Output 
-[Example Output 1](chat-assets/CHAT.JPG)  
-[Example Output 2](https://example.com/output2)  
+[Example Output 1](chat-assets/CHAT.png)  
+[Example Output 2](chat-assets/LOGIN.png)  
 
 # Introduction
 
