@@ -3,9 +3,10 @@
 ## DURATION: 4 WEEKS  
 ## MENTOR: NEELA SANTOSH KUMAR  
 
-###  Output 
-[Example Output 1]([chat-assets/CHAT.png](https://github.com/nsoham0002/YapYap/blob/main/chat-assets/CHAT.png))  
-[Example Output 2]([chat-assets/LOGIN.png](https://github.com/nsoham0002/YapYap/blob/main/chat-assets/CHAT.png))  
+###  Output
+<img src="https://raw.githubusercontent.com/nsoham0002/YapYap/main/chat-assets/CHAT.png" width="400">
+<img src="https://raw.githubusercontent.com/nsoham0002/YapYap/main/chat-assets/LOGIN.png" width="400">
+
 
 # Introduction
 
