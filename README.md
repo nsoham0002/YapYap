@@ -1,4 +1,11 @@
+## INTERN ID: CT08OYC  
+## DOMAIN NAME: FRONT END DEVELOPMENT  
+## DURATION: 4 WEEKS  
+## MENTOR: NEELA SANTOSH KUMAR  
 
+###  Output 
+[Example Output 1](https://example.com/output1)  
+[Example Output 2](https://example.com/output2)  
 
 # Introduction
 
