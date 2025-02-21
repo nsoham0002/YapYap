@@ -4,8 +4,8 @@
 ## MENTOR: NEELA SANTOSH KUMAR  
 
 ###  Output 
-[Example Output 1](chat-assets/CHAT.png)  
-[Example Output 2](chat-assets/LOGIN.png)  
+[Example Output 1]([chat-assets/CHAT.png](https://github.com/nsoham0002/YapYap/blob/main/chat-assets/CHAT.png))  
+[Example Output 2]([chat-assets/LOGIN.png](https://github.com/nsoham0002/YapYap/blob/main/chat-assets/CHAT.png))  
 
 # Introduction
 
